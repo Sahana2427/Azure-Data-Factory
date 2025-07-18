@@ -1,0 +1,9 @@
+{
+	"name": "ADFgds",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "13a552b0-ff73-446e-9e76-4d079424e6da",
+		"tenantId": "b22d33c2-abbe-4919-9642-bff245c4fe27"
+	}
+}
